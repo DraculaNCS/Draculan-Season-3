@@ -380,7 +380,7 @@ We aim for smooth matches, but in case of interruptions (server crash, power out
 
 **Player Equipment and Setup**
 
-* **Provided Equipment:** The venue will provide high-performance gaming setups for all matches. Each station includes a gaming PC equipped with an **Intel Core i9-13900KF processor**, **32 GB DDR5 RAM at 5600 MHz**, and an **NVIDIA GeForce RTX 4080 GPU**. PCs will also have **BenQ ZOWIE 400Hz monitors**, **AceZone Headsets**, as well as standard desks and chairs for players. All systems will come with CS2 pre-installed, along with necessary drivers and software.
+* **Provided Equipment:** The venue will provide high-performance gaming setups for all matches. Each station includes a gaming PC equipped with an **AMD Ryzen 9800X3D processor**, **32 GB DDR5 RAM at 5600 MHz**, and an **NVIDIA GeForce RTX 5070TI GPU**. PCs will also have **BenQ ZOWIE 400Hz monitors**, **AceZone Headsets**, as well as standard desks and chairs for players. All systems will come with CS2 pre-installed, along with necessary drivers and software.
 
 * **Player-Provided Gear:** Players **must bring their own** peripherals: this includes **mouse, keyboard, mousepad** and **in-ear** earphones. Bringing your own gear ensures comfort and familiarity. 
 
